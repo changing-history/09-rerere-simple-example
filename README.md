@@ -1,0 +1,1 @@
+# GIT --rerere. Simple example
